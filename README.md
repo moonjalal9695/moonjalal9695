@@ -3,7 +3,7 @@
 **Data Analyst | SQL • Power BI • Python • Tableau**  
 📍 Dhaka, Bangladesh  
 📧 rabayajalmoon@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/rabaya-jalal-moon) | 💻 [GitHub](https://github.com/moonjalal9695)
+🔗 [LinkedIn](https://linkedin.com/in/rabaya-jalal-moon) |
 
 ---
 
