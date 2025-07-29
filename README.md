@@ -24,14 +24,14 @@ I’m a data analyst with 3 years of hands-on experience in transforming raw dat
 
 ## 📈 Featured Projects
 
-### [🔗 Credit Card Risk Analysis Dashboard](https://github.com/moonjalal9695/credit-card-data-analysis)
+### [🔗 Credit Card Risk Analysis](https://github.com/moonjalal9695/credit-card-data-analysis)
 Built a Power BI dashboard combining SQL and Python analysis to flag high-risk credit customers. Enabled up to 15% default reduction through early intervention strategies.
 
 ### [🔗 Customer Churn Analysis](https://github.com/moonjalal9695/customer-churn-dashboard)
 Visualized key KPIs and churn drivers to uncover actionable business insights.
 
 ### [🔗 Sales Performance Analytics](https://github.com/moonjalal9695/Sales-Performance-Analytics-Dashboard)
-Created a KPI-driven dashboard that helped shift sales strategy and increase conversion rate by 12%.
+Developed a Sales Performance dashboard using Power BI with data sourced from PostgreSQL to analyze revenue, profit, and regional trends.
 
 ---
 
