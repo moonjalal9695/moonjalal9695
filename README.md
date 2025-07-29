@@ -27,8 +27,8 @@ I’m a data analyst with 3 years of hands-on experience in transforming raw dat
 ### [🔗 Credit Card Risk Analysis Dashboard](https://github.com/moonjalal9695/credit-card-data-analysis)
 Built a Power BI dashboard combining SQL and Python analysis to flag high-risk credit customers. Enabled up to 15% default reduction through early intervention strategies.
 
-### [🔗 Road Accident Dashboard](https://github.com/moonjalal9695/Road-Accident-Dashboard-)
-Visualized 10,000+ accident reports to identify trends by time, location, and weather. Insights contributed to safety policy proposals.
+### [🔗 Customer Churn Analysis](https://github.com/moonjalal9695/customer-churn-dashboard)
+Visualized key KPIs and churn drivers to uncover actionable business insights.
 
 ### [🔗 Sales Performance Analytics](https://github.com/moonjalal9695/Sales-Performance-Analytics-Dashboard)
 Created a KPI-driven dashboard that helped shift sales strategy and increase conversion rate by 12%.
@@ -38,5 +38,5 @@ Created a KPI-driven dashboard that helped shift sales strategy and increase con
 ## 📬 Let’s Connect
 
 I’m actively looking for data analyst opportunities and collaborations.  
-📧 Email: rabayajalmoon@gmail.com  
+📧 Email: rabayajalalmoon@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/rabaya-jalal-moon)
