@@ -28,6 +28,7 @@ I’m a data analyst with 3 years of hands-on experience in transforming raw dat
 Built a Power BI dashboard combining SQL and Python analysis to flag high-risk credit customers. Enabled up to 15% default reduction through early intervention strategies.
 
 ### [🔗 Customer Churn Analysis](https://github.com/moonjalal9695/customer-churn-dashboard)
+Developed a customer churn analysis project using Python for data cleaning and Tableau for building an interactive two-page dashboard.
 Visualized key KPIs and churn drivers to uncover actionable business insights.
 
 ### [🔗 Sales Performance Analytics](https://github.com/moonjalal9695/Sales-Performance-Analytics-Dashboard)
